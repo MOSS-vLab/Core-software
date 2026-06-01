@@ -6,8 +6,8 @@ This repository serves as an index of long-term maintained scientific software d
 
 ## Available Packages
 
-- **pyMLDA** — Machine learning methods for Structural Health Monitoring.
-- **Wave** — Wave manipulation and vibration control using smart metastructures.
+- [pyMLDA](https://github.com/MOSS-vLab/pymlda) - Machine learning methods for Structural Health Monitoring.
+- **Wave** - Wave manipulation and vibration control using smart metastructures.
 <!-- - **moss-shm-toolbox** — Signal processing and monitoring tools for structural dynamics. -->
 ---
 
